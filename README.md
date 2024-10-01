@@ -1,5 +1,5 @@
 # Real-Time Robot Control System
-## Watch the Robot Control Video
+## Watch the Video
 [Watch the video on Google Drive](https://drive.google.com/file/d/1KT3zfMxrSUyNrONq2Dl1u-8bTKiKahBC/view?usp=sharing)
 
 ## Overview
