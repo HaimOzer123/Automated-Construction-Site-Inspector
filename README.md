@@ -1,4 +1,7 @@
 # Real-Time Robot Control System
+## Watch the Robot Control Video
+[Watch the video on Google Drive](https://drive.google.com/file/d/1KT3zfMxrSUyNrONq2Dl1u-8bTKiKahBC/view?usp=sharing)
+
 ## Overview
 
 This project demonstrates a real-time robot control system using Raspberry Pi and various sensors, motors, and cameras. It is designed to navigate autonomously, avoid obstacles, track black lines, and stream real-time video for AI-based analysis using YOLO and GPT-4V. The project was developed by **Haim Ozer** and **Shon Pazarker** to showcase skills in real-time embedded systems, robotics, and AI integration.
