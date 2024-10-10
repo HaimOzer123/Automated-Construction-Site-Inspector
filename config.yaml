@@ -1,0 +1,27 @@
+motor_pins:
+  IN1: 20
+  IN2: 21
+  IN3: 19
+  IN4: 26
+  ENA: 16
+  ENB: 13
+
+sensor_pins:
+  TrackSensorLeftPin1: 3
+  TrackSensorLeftPin2: 5
+  TrackSensorRightPin1: 4
+  TrackSensorRightPin2: 18
+
+video_settings:
+  resolution: [640, 480]
+  fps: 5.0
+  codec: "mp4v"
+  directory: "videos"
+
+upload_settings:
+  url: "https://app-app-dev-eus2-004.azurewebsites.net/api/v1/videos/upload"
+  mime_type: "video/mp4"
+
+logging:
+  level: "INFO"
+  file: "robot_log.log"

@@ -1,0 +1,5 @@
+videos
+robot_env
+.env
+__pycache__
+robot_log.log
